@@ -3,7 +3,7 @@
 
 /* ELEMENT SELECTORS */
 body{   
-     background-image: url('https://i.pinimg.com/564x/24/d2/13/24d213b14b7ebebd992bfd0d5e9fdbe8.jpg');
+     background-image: url('https://i.pinimg.com/564x/30/63/8b/30638b0130d24082f3901edeb89574f7.jpg');
      background-size: cover;
      background-repeat: no-repeat;
      text-align: center;
@@ -12,7 +12,7 @@ body{
 }
 
 div{
-    background-color: rgba(110, 236, 99, 0.397);
+    background-color: rgba(51, 100, 46, 0.397);
     width: 80%;
     margin-left: auto;
     margin-right: auto;
@@ -66,7 +66,7 @@ a:link {
   
   /* mouse over link */
   a:hover {
-    color: rgb(5, 238, 25)
+    color: rgb(0, 0, 0)
   }
   
   /* selected link */
@@ -78,7 +78,7 @@ a:link {
 /* CLASSNAME SELECTORS */
 
 .teaMenu{
-    background-color: rgba(104, 184, 111, 0.712);
+    background-color: rgba(165, 164, 123, 0.726);
     padding: 20px;
     max-width: 500px;
 }

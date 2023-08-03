@@ -92,6 +92,13 @@ a:link {
     font-style: italic;
 }
 
+.teaIcon{
+    width: 50px;
+    height: 50px;
+
+}
+
+
 .teaItem p{
     /* background-color: green; */
     display: inline-block;

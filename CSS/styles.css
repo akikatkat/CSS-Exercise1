@@ -3,7 +3,7 @@
 
 /* ELEMENT SELECTORS */
 body{   
-     background-image: url('https://images.pexels.com/photos/2878713/pexels-photo-2878713.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+     background-image: url('https://i.pinimg.com/564x/24/d2/13/24d213b14b7ebebd992bfd0d5e9fdbe8.jpg');
      background-size: cover;
      background-repeat: no-repeat;
      text-align: center;
@@ -12,10 +12,12 @@ body{
 }
 
 div{
-    background-color: rgb(228,202, 168);
+    background-color: rgba(110, 236, 99, 0.397);
     width: 80%;
     margin-left: auto;
     margin-right: auto;
+    border-top-left-radius: 60px;
+    border-bottom-right-radius: 60px;
 }
 
 h1, h2, p{
@@ -34,7 +36,7 @@ h2{
 hr{
     height: .5px;
     background-color: rgb(228, 202, 168, 0.4);
-    border-color: rgba(228, 202, 168, 0.406);
+    border-color: rgba(25, 104, 49, 0.406);
     box-shadow: 0px 4px 17px rgba(0, 0, 0, 0.75);
     -webkit-box-shadow: 0px 4px 17px rgba(0, 0, 0, 0.75);
     -moz-box-shadow: 0px 4px 17px rgba(0, 0, 0, 0.75);
@@ -64,7 +66,7 @@ a:link {
   
   /* mouse over link */
   a:hover {
-    color: rgb(228, 202, 168);
+    color: rgb(5, 238, 25)
   }
   
   /* selected link */
@@ -76,7 +78,7 @@ a:link {
 /* CLASSNAME SELECTORS */
 
 .teaMenu{
-    background-color: rgba(228, 202, 168, 0.397);
+    background-color: rgba(104, 184, 111, 0.712);
     padding: 20px;
     max-width: 500px;
 }

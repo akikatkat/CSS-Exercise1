@@ -108,8 +108,9 @@ a:link {
     
 }
  
-.teaFlavor{
+.teaFlavor, .teaCollection{
     display: inline-block;
+    font-size: 16px;
 }
 .teaFlavor, .teaCollection{
     /* background-color: orangered; */
